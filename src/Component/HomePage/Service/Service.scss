@@ -1,0 +1,48 @@
+#service {
+    margin-top: 100px;
+
+    .title {
+        text-align: center;
+
+        span {
+            color: #8BBC6F;
+        }
+    }
+
+    a {
+        text-decoration: none !important;
+
+        .single-service {
+            text-align: center;
+            padding: 25px 0;
+            margin: 35px 0;
+            border-radius: 10px;
+            transition: all 0.3s ease;
+
+            img {
+                width: 30%;
+            }
+
+            h3 {
+                color: #111430;
+                font-size: 24px;
+                text-transform: capitalize;
+                margin: 20px 0;
+            }
+
+            p {
+                color: gray;
+            }
+        }
+
+        &:hover .single-service {
+            box-shadow: -3px 0 18px 0px #00000017;
+        }
+    }
+}
+
+@media only screen and (max-width:768px) {
+    #service a .single-service {
+        margin: 0;
+    }
+}

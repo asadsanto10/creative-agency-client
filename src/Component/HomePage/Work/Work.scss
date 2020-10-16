@@ -1,0 +1,32 @@
+#work{
+    background-color: #111430;
+    padding: 50px 0;
+    .title {
+        text-align: center;
+        color: #fff;
+        span {
+            color: #8BBC6F;
+        }
+    }
+    .single-carousel{
+        padding: 40px 20px;
+        img{
+            width: 100%;
+        }
+        &:focus-visible{
+            outline: none;
+        }
+    }
+    .slick-arrow{
+        display: none !important;
+    }
+    .slick-dots li button:before {
+        font-size: 23px;
+        opacity: 1;
+        color: #434988;
+    }
+    .slick-dots li.slick-active button:before {
+    opacity: 1;
+    color: #fbc12b;
+    }
+}

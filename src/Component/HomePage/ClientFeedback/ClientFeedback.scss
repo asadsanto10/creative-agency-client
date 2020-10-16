@@ -1,0 +1,23 @@
+#client-feedback {
+    margin-top: 70px;
+
+    .title {
+        text-align: center;
+
+        span {
+            color: #8BBC6F;
+        }
+    }
+
+    .single-feedback {
+        border: 1px solid #7b79799c;
+        padding: 25px;
+        margin: 71px 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #client-feedback .single-feedback {
+        margin: 10px 0;
+    }
+}
