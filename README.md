@@ -1,5 +1,6 @@
 ### Creative Agency - A Service Provider Organization
----
+A simple single page web application(SPA). In this application, the user can login to receive the service of his choice and the admin can control the entire website from the admin panel.
+
 **[Visit our Creative Agency website](https://creative-agnecy.web.app/)**
 #### Creative Agency Overview:
 * user dashboard 
@@ -26,3 +27,5 @@
 * VS Code
 * Git
 * Github
+
+[Back-end Repo](https://github.com/asadsanto10/creative-agency-server)
