@@ -1,7 +1,7 @@
 ### Creative Agency - A Service Provider Organization
 A simple single page web application(SPA). In this application, the user can login to receive the service of his choice and the admin can control the entire website from the admin panel.
 
-**[Visit our Creative Agency website](https://creative-agnecy.web.app/)**
+**[Visit my Creative Agency website](https://creative-agnecy.web.app/)**
 #### Creative Agency Overview:
 * user dashboard 
 * Service
